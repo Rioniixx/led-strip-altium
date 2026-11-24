@@ -1,1 +1,0 @@
-# led-strip-altium
