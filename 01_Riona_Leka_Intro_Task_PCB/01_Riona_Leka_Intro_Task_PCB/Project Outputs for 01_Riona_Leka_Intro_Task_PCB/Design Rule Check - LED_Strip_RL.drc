@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Riona\Desktop\elbflorace\led-strip-altium\01_Riona_Leka_Intro_Task_PCB\02_PCBs\LED_Strip_RL.PcbDoc
-Date     : 24/11/2026
-Time     : 11:48:01
+Date     : 25/11/2026
+Time     : 15:06:36
 
 Processing Rule : Clearance Constraint (Gap=3.15mm) (InNetClass('TS+')),(InNetClass('TS-'))
 Rule Violations :0
